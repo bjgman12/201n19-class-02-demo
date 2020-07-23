@@ -1,0 +1,14 @@
+h1 {
+    color:plum;
+}
+
+ul{
+    margin:15px;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+ol{
+    list-style-type:decimal;
+    margin:15px;
+}
